@@ -30,9 +30,9 @@ const sidebars = {
    */
 };
 
-//module.exports = sidebars;
+module.exports = sidebars;
 
-module.exports = {
+/*module.exports = {
   tutorialSidebar: [
     'intro',
     'hello',
@@ -42,4 +42,4 @@ module.exports = {
       items: ['tutorial-basics/create-a-document'],
     },
   ],
-};
+};*/
