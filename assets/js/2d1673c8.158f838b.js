@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5907],{5152:e=>{e.exports=JSON.parse('{"label":"greetings","permalink":"/brandonweiss-porfolio-site/blog/tags/greetings","allTagsPath":"/brandonweiss-porfolio-site/blog/tags","count":1}')}}]);
