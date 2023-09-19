@@ -4,6 +4,6 @@ sidebar_position: 3
 ---
 
 
-# Hello
+# My Project
 
 This is my **first Docusaurus document**!
