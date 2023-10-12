@@ -6,7 +6,7 @@ sidebar_position: 3
 # Design Reflection
 
 ## Needfinding
-There are tons of things in our everyday lives that bug us. Needfinding is being aware of those things and writing them down. Then when presenting those bugs to others we can see if they also affect other people's lives and to what degree. By drawing out our bugs and providing a short description in writing or verbally people are able to more easily understand the problem and have an easier time connecting with the idea. s
+There are tons of things in our everyday lives that bug us. Needfinding is being aware of those things and writing them down. Then when presenting those bugs to others we can see if they also affect other people's lives and to what degree. By drawing out our bugs and providing a short description in writing or verbally people are able to more easily understand the problem and have an easier time connecting with the idea.
 
 ## Defining
 We defined the bugs into a question, “How might we”, which allowed us to think about what the problem is. But by making our ”How might me” questions broad we allow for many things to be the solution to our problem. The wording of the question is extremely important because certain keywords or the way the question is phrased can give people a bias in how they come up with ideas to solve the problem.
