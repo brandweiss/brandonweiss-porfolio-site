@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # Journal 5
 
 ## What is your project idea?

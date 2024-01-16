@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Journal #3
 
 ## POV's
