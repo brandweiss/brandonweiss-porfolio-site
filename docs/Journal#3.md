@@ -1,8 +1,3 @@
----
-sidebar_label: "Journal #3"
-sidebar_position: 5
----
-
 # Journal #3
 
 ## POV's
