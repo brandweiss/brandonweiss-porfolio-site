@@ -1,5 +1,5 @@
 ---
-sidebar_label: "hi"
+sidebar_label: "Last Years Project"
 sidebar_position: 1
 ---
 
